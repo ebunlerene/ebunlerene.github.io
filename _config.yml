@@ -7,7 +7,26 @@
 # For example, to select the Minimal theme, type theme: jekyll-theme-minimal.
 # To use any other Jekyll theme hosted on GitHub, type remote_theme: THEME-NAME, 
 # replacing THEME-NAME with the name of the theme as shown in the README of the theme's repository.
-
+# Supported themes
+# GitHub Pages supports the following themes:
+#
+# - Architect
+# - Cayman
+# - Dinky
+# - Hacker
+# - Leap day
+# - Merlot
+# - Midnight
+# - Minima
+# - Minimal
+# - Modernist
+# - Slate
+# - Tactile
+# - Time machine
+#
+# See the GitHub Pages help documentation for instructions on how to add a theme 
+# to your GitHub Pages site, and follow The GitHub Blog for information on 
+# additional theme support.
 
 
 
